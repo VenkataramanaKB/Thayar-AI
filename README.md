@@ -17,4 +17,3 @@ This platform aims to solve this by providing an AI-powered checklist and workfl
 -Public repository and private access to workflows.
 
 -An open-source platform to simplify task management and enhance collaboration, driven by community contributions.
-
